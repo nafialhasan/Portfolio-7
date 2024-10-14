@@ -1,10 +1,10 @@
-# Portfolio 6: Analyzing Koala Physical Characteristics Across Different Regions
+# Portfolio 7: Analyzing Koala Physical Characteristics Across Different Regions
 
 This repository contains my work for the Portfolio 6 assignment, where I analyze koala physical characteristics across different regions. The goal of the assignment is to explore the dataset, clean it, and identify patterns and insights about koala physical attributes to aid in conservation efforts and research.
 
 ## Contents
 
-- `Portfolio 6_Analysing Koala Physical Characteristics Across Different Regions.ipynb`: The Jupyter notebook containing the code, analysis, and insights for the assignment.
+- `Portfolio 7_Analysing Koala Physical Characteristics Across Different Regions.ipynb`: The Jupyter notebook containing the code, analysis, and insights for the assignment.
 - `koalas_dataset.xlsx`: The dataset file used for the analysis, containing information about koala physical characteristics across various regions.
 
 ## Assignment Details
@@ -52,7 +52,7 @@ The dataset includes the following fields:
 ## Repository Structure
 
 - `README.md`: Overview of the repository and assignment details.
-- `Portfolio 6_Analysing Koala Physical Characteristics Across Different Regions.ipynb`: The main notebook containing the code, analysis, and visualizations.
+- `Portfolio 7_Analysing Koala Physical Characteristics Across Different Regions.ipynb`: The main notebook containing the code, analysis, and visualizations.
 - `koalas_dataset.xlsx`: The dataset used for analysis in the notebook.
 
 ## Contact Information
